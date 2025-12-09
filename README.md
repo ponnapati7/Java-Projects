@@ -4,6 +4,7 @@ AI Startup Task Manager is a simple Java console application used to manage empl
 The program shows how tasks can be filtered, grouped by employees, and exported to a text file. It also runs a small background thread that prints task reports while the main program runs. This gives a quick demonstration of how a basic task management system works using pure Java.
 
 ✨ Features
+
 Add employees to the system
 Create new tasks with title, priority and due date
 Assign tasks to employees
@@ -15,15 +16,18 @@ Export all task details to a text file
 Background reporting using a separate thread
 
 🛠️ Tools & Technologies
+
 Java 17
 IntelliJ IDEA
 Maven
 
 📂 Project Structure
+
 src/main/java/com/ai/ocp/project/AiStartupTaskManager.java
 All the classes like Employee, Task, Repository, and TaskService are written inside the same file to keep the project simple and easy to run.
 
 🚀 How to Run the Program
+
 Install JDK 17
 Open the project in IntelliJ IDEA
 Go to:
@@ -33,6 +37,7 @@ Output will be shown in the console
 A file named tasks_export.txt will be created with task data
 
 📄 Output Information
+
 The console output includes:
 List of employees
 List of tasks
