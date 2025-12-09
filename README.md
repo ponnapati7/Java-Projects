@@ -41,5 +41,3 @@ Overdue tasks
 Tasks grouped by employee
 Background report messages
 
-👨‍💻 Author
-Gayathri Ponnapati
