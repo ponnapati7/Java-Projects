@@ -1,4 +1,5 @@
 📌 AI Startup Task Manager
+
 AI Startup Task Manager is a simple Java console application used to manage employees and their tasks inside a startup. The program allows creating employees, adding tasks with priority levels and due dates, assigning each task to an employee, checking which tasks are overdue, and displaying all tasks in different views. The application runs fully in the console and does not use any database. All data is stored in memory during the program execution.
 The program shows how tasks can be filtered, grouped by employees, and exported to a text file. It also runs a small background thread that prints task reports while the main program runs. This gives a quick demonstration of how a basic task management system works using pure Java.
 
